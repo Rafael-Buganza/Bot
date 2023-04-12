@@ -1,0 +1,2 @@
+# Bot
+Only for desktop
